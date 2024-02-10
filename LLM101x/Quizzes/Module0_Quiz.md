@@ -1,6 +1,6 @@
 **1.** Choose two improvements LLMs are likely to bring to businesses.
 - [x] Increased RoI by reducing time to create proof-of-concept.
-- [ ] Improved security practices
+- [ ] Improved security practices.
 - [x] Accelerated innovation.
 - [ ] Reduced energy consumption.
 
@@ -19,7 +19,7 @@
 **4.** Which of the following stages are part of the generative AI model lifecycle mentioned in the course? (Select all that apply)
 - [x] Deploying the model into the infrastructure and integrating it with the application.
 - [x] Defining the problem and identifying relevant datasets.
-- [ ] Performing regularization
+- [ ] Performing regularization.
 - [x] Manipulating the model to align with specific project needs.
 - [x] Selecting a candidate model and potentially pre-training a custom model.
 
