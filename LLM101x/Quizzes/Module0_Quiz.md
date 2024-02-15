@@ -44,7 +44,7 @@ Is this true or false?
 - [x] False
 
 **9.** Scaling laws for pre-training large language models consider several aspects to maximize performance of a model within a set of constraints and available scaling choices. Select all alternatives that should be considered for scaling when performing model pre-training?
-- [ ]Batch size: Number of samples per iteration 
+- [ ] Batch size: Number of samples per iteration 
 - [x] Model size: Number of parameters
 - [x] Dataset size: Number of tokens
 - [x] Compute budget: Compute constraints
