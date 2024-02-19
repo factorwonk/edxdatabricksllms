@@ -20,11 +20,11 @@
 - [ ] A prompt and a task description.
 - [x] A prompt and a candidate LLM.
 - [ ] A candidate LLM and a task description.
-- [ ] Two LLMss.
+- [ ] Two LLMs.
 
 **5.** How do you chain LLMs together in LangChain?
 - [ ] Utilizing a graph networking library, LangChain combines these LLMs with a complex graphing language
-- [x] Chains can be combined as Sequential, or SimpleSequential, chains where outputs and inputs can be defined ina. simple and structured way.
+- [x] Chains can be combined as Sequential, or SimpleSequential, chains where outputs and inputs can be defined in a simple and structured way.
 - [ ] Langchain, a python library, utilizes python generators to create a low-level structure to combine API calls in a chain.
 - [ ] Within the prompt for the first LLM is the API call from LangChain's documentation to access the second LLM.
 
