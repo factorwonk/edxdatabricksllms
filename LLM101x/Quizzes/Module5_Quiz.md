@@ -20,7 +20,7 @@ To create an unbiased model, it's sufficient to keep collecting more data and tr
 
 Beijing is the first city in the world to have hosted both the summer and winter editions of the Olympic games. In the bidding process to host the 2022 Winter Olympics, it beat Almaty, Kazakhstan by four votes on 31 July 2015.
 
-- [x] Beijin was the first city in the world to have hosted the Olympic games twice.
+- [x] Beijing was the first city in the world to have hosted the Olympic games twice.
 - [ ] Almaty was the next promising contender after Beijing for hosting the 2022 Winter Olympics.
 - [x] Beijing hosted the Summer Olympics in 2015.
 - [x] Beijing ran both the summer and winter Olympic games on entirely renewable engergy.
@@ -46,7 +46,7 @@ Morgan just turned ten. Her parents threw her a birthday party last weekend. Mor
 
 
 **7.** Which of the following model issues result in hallucination? Select three.
-- [x] Enocder learns wrong correlations between parts of training data
+- [x] Encoder learns wrong correlations between parts of training data
 - [x] Decoder attends to the wrong part of the input source
 - [x] Model generates output based on its own self-generated sequence
 - [ ] The model learns from the provided input
