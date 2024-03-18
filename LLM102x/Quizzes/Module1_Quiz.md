@@ -1,4 +1,4 @@
-**1.** n the history of AI development, computer vision was unlocked with the Convolutional Neural Networks, however this required a special feature, the convolution layer.  What was the key feature that allowed a similar breakthrough for large language models (LLMs)?
+**1.** In the history of AI development, computer vision was unlocked with the Convolutional Neural Networks, however this required a special feature, the convolution layer.  What was the key feature that allowed a similar breakthrough for large language models (LLMs)?
 - [ ] We are still waiting to see if something like the convolution layer for vision can be developed for LLMs
 - [ ] LLMs also use the convolution layer, so that one layer is important for both vision and language
 - [x] For LLMs, the attention mechanism unlocked the ability to tackle language better than ever before
